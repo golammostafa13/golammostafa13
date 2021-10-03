@@ -30,7 +30,8 @@
 
 ### Languages and Tools:
 
-<img align="left" width="22px" src="images/js.svg" alt="javascript" />
+<div>
+    <img align="left" width="22px" src="images/js.svg" alt="javascript" />
 <img align="left" width="22px" src="images/cpp.svg" alt="javascript" />
 <img align="left" width="22px" src="images/python.svg" alt="javascript" />
 <span>||</span>
@@ -38,14 +39,15 @@
 <img align="left" width="22px" src="images/node.svg" alt="javascript" />
 <img align="left" width="22px" src="images/web.svg" alt="javascript" />
 <span>||</span>
-<img align="" width="22px" src="images/git.svg" alt="javascript" />
-<img align="" width="22px" src="images/heroku.svg" alt="javascript" />
-<img align="" width="22px" src="images/netlify.svg" alt="javascript" />
-<img align="" width="22px" src="images/firebase.svg" alt="javascript" />
-<img align="" width="22px" src="images/mongo.svg" alt="javascript" />
-<img align="" width="22px" src="images/vsCode.svg" alt="javascript" />
-<img align="" width="22px" src="images/figma.svg" alt="javascript" />
+<img align="left" width="22px" src="images/git.svg" alt="javascript" />
+<img align="left" width="22px" src="images/heroku.svg" alt="javascript" />
+<img align="left" width="22px" src="images/netlify.svg" alt="javascript" />
+<img align="left" width="22px" src="images/firebase.svg" alt="javascript" />
+<img align="left" width="22px" src="images/mongo.svg" alt="javascript" />
+<img align="left" width="22px" src="images/vsCode.svg" alt="javascript" />
+<img align="left" width="22px" src="images/figma.svg" alt="javascript" />
 
+</div>
 <br />
 
 ---
