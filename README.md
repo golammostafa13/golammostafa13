@@ -13,6 +13,8 @@
     </p>
 </div>
 
+<img src="https://komarev.com/ghpvc/?username=anandmainali" alt="anandmainali" />
+
 ## I'm a Developer, Teacher & Sportsman
 
 - 🔭 I’m currently working with React, Node.js, Express.js, Mongodb, Javascript, HTML, CSS, Bootstrap etc.
