@@ -11,35 +11,34 @@
     </p>
 </div>
 
-## I'm a Developer, Teacher & Sportsman!!
+## I'm a Developer, Teacher & Sportsman
 
 - 🔭 I’m currently working with React, Node.js, Express.js, Mongodb, Javascript, HTML, CSS, Bootstrap etc.
 - 🌱 I’m currently learning everything!!.
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects and trying to make a better community by sharing my knowledge.
 
-### Connect with me:
-
-[<img align="left" alt="Learn New Code" width="22px" src="images/blog.png" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="webDevMostafa | facebook" width="22px" src="https://www.pinclipart.com/picdir/middle/148-1481304_facebook-icon-circle-black-vector-clipart.png" />][facebook]
-
 <br />
 
 <pre>
-<strong>Tools and Technology I know</strong>
-Programming Language:   JavaScript, C++, Python </br>
-Web Technology:         Reactjs, Nodejs, Responsive Web Design</br>
-Tools:                  Git, Github, Heroku, Netlify, Firebase, MongoDB, VS code, Figma. </br>
-Others:                 Data Structure and Algorithm </br>
+    <strong>Tools and Technology I know</strong>
+    Programming Language:   JavaScript, C++, Python </br>
+    Web Technology:         Reactjs, Nodejs, Responsive Web Design</br>
+    Tools:                  Git, Github, Heroku, Netlify, Firebase, MongoDB, VS code, Figma. </br>
+    Others:                 Data Structure and Algorithm </br>
 </pre>
 
 ### Languages and Tools:
 
 <br />
-<br />
 
 ---
+
+### Connect with me:
+
+[<img align="left" alt="Learn New Code" width="22px" src="images/blog.png" />][website]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="webDevMostafa | facebook" width="22px" src="https://www.pinclipart.com/picdir/middle/148-1481304_facebook-icon-circle-black-vector-clipart.png" />][facebook]
 
 <details>
   <summary>:zap: GitHub Stats</summary>
