@@ -5,24 +5,24 @@
 
 ### Hi there, I'm Golam Mostafa - [LearnCode][website] 👋
 
-[![Website](https://img.shields.io/website?label=LEARN NEW CODE&style=for-the-badge&url=https://learn-new-thing.netlify.app/)](https://learn-new-thing.netlify.app/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+<p>
+    I'm a front-end Web Developer and very much passionate, active and flexible. I love to code with patience, innovation and also as a team member.
+</p>
+
+<br/>
 
 ## I'm a Developer, Teacher & Sportsman!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
+- 🔭 I’m currently working with React, Node.js, Express.js, Mongodb, Javascript, HTML, CSS, Bootstrap etc.
+- 🌱 I’m currently learning everything!!.
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🥅 2021 Goals: Contribute more to Open Source projects and trying to make a better community by sharing my knowledge.
 
 ### Connect with me:
 
 [<img align="left" alt="Learn New Code" width="22px" src="images/blog.png" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="webDevMostafa | facebook" width="22px" src="https://www.pinclipart.com/picdir/middle/148-1481304_facebook-icon-circle-black-vector-clipart.png" />][facebook]
 
 <br />
 
@@ -102,12 +102,5 @@
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jasongaylord&langs_count=5&theme=tokyonight)]() -->
 
 [website]: https://learn-new-thing.netlify.app/
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
 [linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[facebook]: https://facebook.com/https://www.facebook.com/webDevMostafa/
