@@ -5,6 +5,8 @@
 
 ### Hi there, I'm Golam Mostafa - [LearnNewCode][website] 👋
 
+<strong> BSc in CSE, Rangamati Science & Technology University</strong>
+
 <div>
     <p>
         I'm a front-end Web Developer and very much passionate, active and flexible. I love to code with patience, innovation and also as a team member. Skilled at Web Designing, Testing and production of website.
