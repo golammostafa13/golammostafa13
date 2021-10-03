@@ -71,11 +71,7 @@
 - [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://codestackr.com)
-
 ---
-
-<img align="left" alt="golammostafa13's Github Stats" src="https://github-readme-stats.vercel.app/api?username=golammostafa13&show_icons=true&hide_border=true" />
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
@@ -93,7 +89,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=golammostafa13&show_icons=true&hide_border=true" />
 
 </details>
 
