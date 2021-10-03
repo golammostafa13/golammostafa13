@@ -44,7 +44,6 @@
     <img align="left" width="22px" src="images/mongo.svg" alt="javascript" />
     <img align="left" width="22px" src="images/vsCode.svg" alt="javascript" />
     <img align="left" width="22px" src="images/figma.svg" alt="javascript" />
-
 </div>
 <br />
 
@@ -56,7 +55,7 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="webDevMostafa | facebook" width="22px" src="https://www.pinclipart.com/picdir/middle/148-1481304_facebook-icon-circle-black-vector-clipart.png" />][facebook]
 
-<br/>
+<br />
 
 <details>
   <summary>:zap: GitHub Stats</summary>
