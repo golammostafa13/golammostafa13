@@ -57,7 +57,7 @@
 ### Connect with me:
 
 [<img align="left" alt="Learn New Code" width="22px" src="images/blog.png" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="mostafa | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" />][linkedin]
 [<img align="left" alt="webDevMostafa | facebook" width="22px" src="https://www.pinclipart.com/picdir/middle/148-1481304_facebook-icon-circle-black-vector-clipart.png" />][facebook]
 
 <br />
