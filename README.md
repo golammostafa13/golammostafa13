@@ -28,7 +28,7 @@
     <strong>Tools and Technology I know</strong>
     Programming Language:   JavaScript, C++, Python </br>
     Web Technology:         Reactjs, Nodejs, Responsive Web Design</br>
-    Tools:                  Git, Github, Heroku, Netlify, Firebase, MongoDB, VS code, Figma. </br>
+    Tools:                  Git, Github, Heroku, Netlify, Firebase, MongoDB, VS code, Figma, Material UI</br>
     Others:                 Data Structure and Algorithm </br>
 </pre>
 
