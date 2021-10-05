@@ -3,7 +3,7 @@
     <h2 align="center">Profile</h2>
 </p>
 
-### Hi there, I'm Golam Mostafa - [LearnNewCode][website] 👋
+### Hi there, I'm Golam Mostafa - [LearnNewThing][website] 👋
 
 <strong> BSc in CSE, Rangamati Science & Technology University</strong>
 
@@ -43,8 +43,8 @@
     <img align="left" width="25px" src="images/heroku.svg" alt="javascript" />
     <img align="left" width="25px" src="images/netlify.svg" alt="javascript" />
     <img align="left" width="25px" src="images/firebase.svg" alt="javascript" />
-    <img align="left" width="22px" src="images/mongo.svg" alt="javascript" />
-    <img align="left" width="22px" src="images/vsCode.svg" alt="javascript" />
+    <img align="left" width="25px" src="images/mongo.svg" alt="javascript" />
+    <img align="left" width="25px" src="images/vsCode.svg" alt="javascript" />
     <img align="left" width="22px" src="images/figma.svg" alt="javascript" />
 </div>
 
@@ -54,22 +54,20 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Learn New Code" width="22px" src="images/blog.png" />][website]
-[<img align="left" alt="mostafa | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" />][linkedin]
-[<img align="left" alt="webDevMostafa | facebook" width="22px" src="https://www.pinclipart.com/picdir/middle/148-1481304_facebook-icon-circle-black-vector-clipart.png" />][facebook]
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/mostafashelim) [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/webDevMostafa)
 
 <br />
 <br />
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <!-- <summary>:zap: GitHub Stats</summary> -->
 
   <img align="left" alt="golammostafa13's GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=golammostafa13&theme=tokyonight&showicons=true" />
 
 </details>
 
+[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=golammostafa13&card_width=550)](https://github.com/golammostafa13/golammostafa13)
+
 <!-- [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jasongaylord&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jasongaylord&langs_count=5&theme=tokyonight)]() -->
 
 [website]: https://learn-new-thing.netlify.app/
-[linkedin]: https://linkedin.com/in/codeSTACKr
-[facebook]: https://facebook.com/https://www.facebook.com/webDevMostafa/
