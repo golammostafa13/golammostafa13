@@ -58,12 +58,10 @@
 
 <br />
 <br />
-<details>
-  <!-- <summary>:zap: GitHub Stats</summary> -->
+<img width="550" alt="Golam Mostafa's Github Stats"  src="https://github-readme-stats.vercel.app/api?username=golammostafa13&show_icons=true"/>
 
-  <img align="left" alt="golammostafa13's GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=golammostafa13&theme=tokyonight&showicons=true" />
-
-</details>
+<br />
+<br />
 
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=golammostafa13&card_width=550)](https://github.com/golammostafa13/golammostafa13)
 
