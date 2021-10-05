@@ -54,7 +54,7 @@
 
 ### Connect with me:
 
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/mostafashelim) [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/webDevMostafa)
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/mostafashelim) [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/webDevMostafa) [![Website Visit](https://scontent.fdac37-1.fna.fbcdn.net/v/t1.6435-9/243341938_163868239239776_2119001480418905085_n.png?_nc_cat=108&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=THH7hKBrumcAX-V8X3o&tn=f1ZCs5A0904EdDSm&_nc_ht=scontent.fdac37-1.fna&oh=0b96ec37ab102ef817747c0236d0de47&oe=6181AC87)](https://learn-new-thing.netlify.app/)
 
 <br />
 <br />
