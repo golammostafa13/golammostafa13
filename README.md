@@ -15,7 +15,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=golammostafa13" alt="anandmainali" />
 
-## I'm a Developer, Teacher & Sportsman
+## I'm a Programmer, Web Developer & ML Enthusiastic
 
 - 🔭 I’m currently working with React, Node.js, Express.js, Mongodb, Javascript, HTML, CSS, Bootstrap etc.
 - 🌱 I’m currently learning everything!!.
