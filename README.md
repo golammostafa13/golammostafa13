@@ -3,7 +3,7 @@
     <h2 align="center">Profile</h2>
 </p>
 
-### Hi there, I'm Golam Mostafa - [My Career Edu][website] 👋
+### Hi there, I'm Golam Mostafa - [My Portfolio][website] 👋
 
 <strong> BSc in CSE, Rangamati Science & Technology University</strong>
 
@@ -68,4 +68,4 @@
 <!-- [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jasongaylord&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jasongaylord&langs_count=5&theme=tokyonight)]() -->
 
-[website]: https://mycareeredu.netlify.app/
+[website]: https://golammostafa13.github.io/portfolio/
