@@ -18,7 +18,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
@@ -42,7 +41,7 @@
 #### **Prime Shonjog - Supply Chain Finance**  
 *(Live project for Prime Bank)*  
 - Built **SCF modules** (Factoring, Distributor Finance) with **Next.js & PostgreSQL**.  
-- Implemented **RBAC, WebSockets** for real-time notifications, and **Redis caching** for 10M+ transactions.  
+- Implemented **RBAC, WebSockets** for real-time notifications, and **Redis caching** etc.
 - Integrated **cybersecurity measures** and **CI/CD pipelines** via GitLab.  
 
 #### **AI-Powered Analytics Dashboard**  
@@ -81,6 +80,3 @@
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/webDevMostafa)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-gamma-eight-69.vercel.app/)
 
----
-
-⭐ **Fun Fact**: I optimize code in my sleep! (At least that’s what my teammates say.)
