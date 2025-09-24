@@ -53,7 +53,7 @@
 
 ### 💼 **Professional Experience**  
 **Software Engineer** @ *Spectrum Software & Consulting Ltd.*  
-- Led development of **Prime Shonjog** (fintech solution).  
+- Development of **Prime Shonjog** (fintech solution).  
 - Designed **microservices** for SMS/email notifications using **RabbitMQ**.  
 - Optimized **PostgreSQL** performance and maintained **CBS integrations** (RTGS, EOD).  
 
