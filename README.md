@@ -1,7 +1,7 @@
 <p align="center">
     <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
     <h2 align="center">Golam Mostafa</h2>
-    <h3 align="center">Software Engineer | Cybersecurity Enthusiastic</h3>
+    <h3 align="center">Software Developer | Life long learner</h3>
 </p>
 
 ### Hi there 👋
